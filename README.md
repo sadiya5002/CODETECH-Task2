@@ -1,9 +1,14 @@
 # CODETECH-Task2
 NAME: Sadiya Naushad Shaikh.
+
 COMPANY: CODETECH IT SOLUTIONS 
+
 ID:CTO8DS915
+
 DOMAIN:Web development 
+
 DURATION: October 10 2024 to November 10 2024
+
 MENTOR:Santosh Kumar
 
 OVERVIEW OF THE PROJECT:
