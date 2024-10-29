@@ -18,15 +18,15 @@ https://github.com/user-attachments/assets/5eba49cd-379d-419b-9284-9e91b73230b6
 
 
 ## PROJECT: WEATHER FORECASTING WEBSITE.
-OBJECTIVE:
+### OBJECTIVE:
 The objective of a weather forecasting website is to provide accurate, timely, and easy-to-understand weather information to users. This includes current conditions, hourly and daily forecasts, and severe weather alerts. Additionally, the website should educate users on weather patterns and terminology, help them plan activities around weather changes, and support decision-making for personal and business purposes. Features like radar maps, temperature trends, and personalized alerts further enhance user engagement and accessibility.
 
-TECHNOLOGY USED:
-•HTML
-•CSS
-•JAVASCRIPT
+### TECHNOLOGY USED:
+* HTML
+* CSS
+* JAVASCRIPT
 
-KEY ACTIVITIES:
+### KEY ACTIVITIES:
 
 Key activities in a weather forecasting website are essential to ensuring accurate information, usability, and user engagement. These activities include:
 1. Data Collection and Analysis: Continuously gathering data from weather stations, satellites, radars, and other sources to ensure accurate, real-time information.
