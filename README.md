@@ -11,8 +11,13 @@ DURATION: October 10 2024 to November 10 2024
 
 MENTOR:Santosh Kumar
 
-OVERVIEW OF THE PROJECT:
-PROJECT: WEATHER FORECASTING WEBSITE.
+# OVERVIEW OF THE PROJECT:
+
+
+https://github.com/user-attachments/assets/5eba49cd-379d-419b-9284-9e91b73230b6
+
+
+## PROJECT: WEATHER FORECASTING WEBSITE.
 OBJECTIVE:
 The objective of a weather forecasting website is to provide accurate, timely, and easy-to-understand weather information to users. This includes current conditions, hourly and daily forecasts, and severe weather alerts. Additionally, the website should educate users on weather patterns and terminology, help them plan activities around weather changes, and support decision-making for personal and business purposes. Features like radar maps, temperature trends, and personalized alerts further enhance user engagement and accessibility.
 
